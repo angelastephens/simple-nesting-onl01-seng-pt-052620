@@ -1,6 +1,6 @@
 
 def hopper
-	programmer_hash = hopper[:grace_hopper][:patriarch][:name]
+	programmer_hash = hopper[:grace_hopper]
  		{
         :grace_hopper => {
           :known_for => "COBOL",
